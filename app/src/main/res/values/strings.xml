@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">FirebasePushNotification</string>
+    <string name="firebase_cloud_messaging">Firebase Cloud Messaging!</string>
+    <string name="subscribe_in_fcm">Subscribe in FCM</string>
+    <string name="unsubscribe_in_fcm">Unsubscribe in FCM</string>
 </resources>
