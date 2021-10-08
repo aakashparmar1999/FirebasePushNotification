@@ -8,7 +8,7 @@ import com.google.firebase.messaging.FirebaseMessagingService
 import com.google.firebase.messaging.RemoteMessage
 
 class MyMessagingService : FirebaseMessagingService() {
-    val TAG: String = "MyTAG"
+    private val TAG: String = "MyTAG"
 
     override fun onMessageReceived(p0: RemoteMessage) {
         super.onMessageReceived(p0)
